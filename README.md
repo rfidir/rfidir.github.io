@@ -1,50 +1,75 @@
-# 💫 About Me:
-Hello Guys! 😋 Welcome to my profile!<br>I am a programmer with a huge desire to learn and discover new things. I like to always communicate with the people around me, and especially with my team and the client to better understand what they want. Organization is trivial in everything I do. I am ready to give my best in all the projects I will discover and help to produce.
+# Hamid RZ
 
-<br>
-
-![WhatsApp123123123](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-
-
-<br>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
-&#xf232;
-
-globe_with_meridians
-## 🌐 شبکه های اجتماعی:
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_pedr0dias) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrovdf) 
-
-## ⌨ Code Challenges:
-[![Instagram](https://img.shields.io/badge/CodeWars-%23E4405F.svg?)](https://www.codewars.com/users/fariapv)<br>
-[![LinkedIn](https://img.shields.io/badge/LeetCode-%230077B5.svg?)](https://leetcode.com/fariapv/)
-
-
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fariapv&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=fariapv&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fariapv&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fariapv&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+sahar.net@gmail.com 
+---
+https://www.linkedin.com/in/hamid-rz/
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fariapv&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## Professional Summary
+
+Senior Software & Embedded Systems Engineer with **15+ years of experience** in RFID (LF/HF/UHF), payment systems, loyalty programs, and parking solutions. Expert in integrating peripheral devices (magnetic card readers, SAM/Java Card, ATM peripherals, RFID readers from HID, Duali, ACR). Strong background in C, C#, Java, PHP, Node.js, and Android Studio (Bluetooth + RFID card reading) for both online and offline systems. Currently focused on reverse engineering for device replacement and tag/card compatibility. Proven ability to build standalone devices using microcontrollers + RFID modules.
+
+**I am the right person to build prototypes and implement new ideas from concept to working product.** According to my 15-year track record across diverse technologies, I am constantly eager to learn new things and adapt to any technical challenge. Ready for remote collaboration.
+
+---
+
+## Core Technical Expertise
+
+| Area | Specific Technologies & Skills |
+|------|--------------------------------|
+| **RFID Systems** | 125kHz, 13.56MHz, UHF – integration with HID, Duali, ACR readers |
+| **Payment & Banking** | Magnetic readers (motorized, swipe), SAM cards (Java Card 2.2.1), EPP keypad, card dispenser |
+| **Offline/Online Systems** | Loyalty, parking, payment – using readers in connected & standalone modes |
+| **Microcontrollers** | Firmware development for standalone RFID devices |
+| **Development** | C, C#, Java, Java Card (Eclipse, JavaCardOS IDE), PHP, Node.js, Android Studio |
+| **Mobile & Bluetooth** | Android Studio – read RFID card data, send via Bluetooth interface |
+| **Communication** | USB, Serial Port, Ethernet, TCP/IP, Bluetooth |
+| **Reverse Engineering** | Replacement of devices, RFID tags, contact cards – can demonstrate projects |
+
+---
+
+## Professional Experience
+
+### Senior RFID & Payment Systems Engineer
+**Self-employed / Contract** – *2009 – Present*
+
+#### Payment & Loyalty Systems
+- Developed complete software for parking, payment, and loyalty systems using RFID (13.56MHz, UHF, 125kHz) and magnetic card readers.
+- Integrated HID, Duali, and ACR readers for both online and offline operation.
+- Implemented secure authentication using SAM cards (Java Card 2.2.1) for counters and cryptographic operations.
+
+#### Standalone Device Development
+- Built standalone devices by connecting RFID reader modules to microcontrollers – no PC required.
+- Wrote firmware in C/C++ for real-time card detection and data storage.
+
+#### Banking & ATM Peripherals
+- Integrated motorized magnetic card readers and swipe readers for banking payments.
+- Controlled card dispensers, EPP keypads, and other ATM peripherals via USB, serial, and Ethernet.
+
+#### Multi-Platform Integration
+- Used C#, C, Java, PHP, Node.js to communicate with peripherals across USB/Serial/Ethernet.
+- Built both Windows services and web-based dashboards for transaction management.
+
+#### Mobile & Bluetooth Integration
+- Used **Android Studio** to read data from RFID cards via smartphone or tablet.
+- Implemented **Bluetooth communication** to send RFID card data to other devices (printers, displays, central systems).
+- Created hybrid solutions combining Android apps with external RFID readers over Bluetooth.
+
+#### Reverse Engineering (Recent Focus)
+- Successfully reverse-engineered RFID tags, contact cards, and proprietary devices for replacement and interoperability.
+- Can provide private demonstrations and project summaries.
+
+---
+
+## Technical Environment
+
+| Category | Technologies |
+|----------|--------------|
+| **Languages** | C, C#, Java, Java Card, PHP, Node.js (plus web frontend skills) |
+| **IDEs** | Eclipse, JavaCardOS, Visual Studio, Android Studio |
+| **Protocols** | USB, Serial (RS-232), TCP/IP, Ethernet, Bluetooth |
+| **Readers/Modules** | HID, Duali, ACR, plus generic RFID modules for microcontrollers |
+| **Cards** | Java Card 2.2.1, Mifare, EMV (magnetic), contact/contactless smart cards |
+
+---
