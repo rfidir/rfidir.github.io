@@ -67,7 +67,7 @@ Senior Software & Embedded Systems Engineer with **15+ years of experience** in 
 | Category | Technologies |
 |----------|--------------|
 | **Languages** | C, C#, Java, Java Card, PHP, Node.js (plus web frontend skills) |
-| **IDEs** | Eclipse, JavaCardOS, Visual Studio, Android Studio |
+| **IDEs** | Visual Studio .Net, Android Studio, JavaCardOS, Eclipse |
 | **Protocols** | USB, Serial (RS-232), TCP/IP, Ethernet, Bluetooth |
 | **Readers/Modules** | HID, Duali, ACR, plus generic RFID modules for microcontrollers |
 | **Cards** | Java Card 2.2.1, Mifare, EMV (magnetic), contact/contactless smart cards |
